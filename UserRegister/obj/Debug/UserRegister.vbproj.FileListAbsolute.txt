@@ -1,0 +1,2 @@
+C:\Users\Anna\source\repos\UserRegister\UserRegister\obj\Debug\UserRegister.vbprojAssemblyReference.cache
+C:\Users\Anna\source\repos\UserRegister\UserRegister\obj\Debug\UserRegister.vbproj.CoreCompileInputs.cache
